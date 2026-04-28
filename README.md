@@ -1,7 +1,9 @@
 Olá, eu sou a Flávia!
 
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 5º semestre na Universidade Santa Cecília | Unisanta
+<br>
 💻 Apaixonada por transformar ideias em projetos reais  
+<br>
 🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos 
 
 <!--
