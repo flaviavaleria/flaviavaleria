@@ -1,5 +1,9 @@
 Olá, eu sou a Flávia!
 
+🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 5º semestre na Universidade Santa Cecília | Unisanta
+💻 Apaixonada por transformar ideias em projetos reais  
+🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos 
+
 <!--
 **flaviavaleria/flaviavaleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
