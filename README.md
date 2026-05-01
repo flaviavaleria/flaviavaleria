@@ -1,7 +1,9 @@
-# Olá, eu sou a Flávia Valéria! 👋
+# Olá, eu sou a Flávia Valéria!
 
 🎓 Estudante de **Sistemas de Informação**
+
 💻 Apaixonada por transformar ideias em projetos reais
+
 🌱 Sempre aprendendo e evoluindo no mundo do desenvolvimento web
 
 ---
