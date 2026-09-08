@@ -35,10 +35,11 @@ Aplicação desenvolvida em **Java e Spring Boot** para buscar e organizar infor
 
 ---
 
-### 🌍 Travelgram
+### 🌍 TravelGram | Perfil de Viagens
 
-Página de perfil de viagens desenvolvida com **HTML5 e CSS3**, com foco na construção da interface, organização semântica do conteúdo e estilização visual.
+Página de perfil de viagens desenvolvida com **HTML5 e CSS3**, com foco na construção da interface, organização semântica e estilização responsiva.
 
+[![Visualizar projeto](https://img.shields.io/badge/Visualizar_projeto-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flaviavaleria.github.io/projeto-travelgram/)
 [![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flaviavaleria/projeto-travelgram)
 
 **Tecnologias:** HTML5 • CSS3
