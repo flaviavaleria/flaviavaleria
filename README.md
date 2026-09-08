@@ -1,6 +1,6 @@
 # Olá, eu sou a Flávia!
 
-🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 5º semestre na Universidade Santa Cecília | Unisanta.
+🎓 Estudante de **Sistemas de Informação**, atualmente cursando o 6º semestre na Universidade Santa Cecília | Unisanta.
 
 💻 Foco em **desenvolvimento Full Stack.**
 
@@ -10,7 +10,7 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,github" />
 
 
 ---
