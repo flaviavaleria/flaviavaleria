@@ -44,3 +44,6 @@ Página de perfil de viagens desenvolvida com **HTML5 e CSS3**, com foco na cons
 
 **Tecnologias:** HTML5 • CSS3
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+
