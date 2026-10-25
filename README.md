@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá! Eu sou a Flávia Valéria 👋
+# Olá! Eu sou a Flávia
 
 ### 💻 Estudante de Sistemas de Informação | Desenvolvimento de Software
 
@@ -11,7 +11,7 @@ Com foco em **Java, desenvolvimento Back-end e aplicações web**, busco aprimor
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviaavaleria/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviavaleria.tech@gmail.com)
 
 </div>
@@ -20,17 +20,15 @@ Com foco em **Java, desenvolvimento Back-end e aplicações web**, busco aprimor
 
 ## 👩🏻‍💻 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação** na Universidade Santa Cecília (UNISANTA), com previsão de conclusão em dezembro de 2027.
+🎓 Estudante de **Sistemas de Informação** na Universidade Santa Cecília (UNISANTA)
 
-🚀 Participante do **Programa de Formação AGER**, com formação em desenvolvimento de software, programação orientada a objetos, desenvolvimento web e boas práticas de programação.
-
-☕ Foco em **desenvolvimento Back-end com Java**, Spring Boot, APIs REST e bancos de dados relacionais.
+☕ Foco em Desenvolvimento Full Stack, com conhecimentos em Spring Boot, APIs REST e desenvolvimento web.
 
 🌐 Conhecimentos em desenvolvimento Front-end, com HTML, CSS, JavaScript e React.
 
 🤖 Interesse em **Inteligência Artificial aplicada ao desenvolvimento de software**, integração de sistemas e soluções tecnológicas.
 
-🎯 Em busca de uma oportunidade de **estágio em Desenvolvimento de Software**, para aplicar meus conhecimentos, colaborar com equipes e evoluir profissionalmente.
+🎯 Em busca da minha primeira oportunidade na área de tecnologia, com interesse em Desenvolvimento de Software, aprendizado contínuo e colaboração em projetos que gerem impacto.
 
 ---
 
