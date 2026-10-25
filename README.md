@@ -75,7 +75,7 @@ O projeto explora conceitos de desenvolvimento Back-end, consumo de APIs e integ
 
 **Tecnologias:** Java • Spring Boot • APIs REST
 
-🔗 [Visualizar repositório](COLE_O_LINK_TABELA_FIPE_AQUI)
+🔗 [Visualizar repositório](https://github.com/flaviavaleria/tabela-fipe)
 
 ---
 
