@@ -62,26 +62,44 @@ Com foco em **Java, desenvolvimento Back-end e aplicações web**, busco aprimor
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🌍 Travelgram — Perfil Web de Viagens
-
-Aplicação web responsiva inspirada em um perfil de viagens, desenvolvida com foco em estruturação semântica, organização visual e experiência do usuário.
-
-**Tecnologias:** HTML5, CSS3 e CSS Flexbox.
-
-🔗 [Visualizar projeto](COLE_O_LINK_DO_REPOSITORIO_AQUI)
 
 ---
 
-<div align="center">
+## 🚀 Projetos em Destaque
 
-### ✨ Sempre aprendendo, desenvolvendo e evoluindo!
+### 🚗 Tabela FIPE — Consulta de Veículos
 
-*Transformando conhecimento em prática, um projeto de cada vez.*
+Aplicação desenvolvida em **Java com Spring Boot**, voltada à consulta de informações de veículos por meio da integração com a API da Tabela FIPE.
 
-</div>
+O projeto explora conceitos de desenvolvimento Back-end, consumo de APIs e integração com serviços externos.
 
+**Tecnologias:** Java • Spring Boot • APIs REST
+
+🔗 [Visualizar repositório](COLE_O_LINK_TABELA_FIPE_AQUI)
+
+---
+
+### 📱 Aplicativo Android — Cadastro de Livros
+
+Aplicativo Android desenvolvido em **Kotlin**, com funcionalidades de cadastro de livros e navegação entre telas.
+
+O projeto demonstra conhecimentos em desenvolvimento mobile, organização de interfaces e utilização de recursos da plataforma Android.
+
+**Tecnologias:** Kotlin • Android
+
+🔗 [Visualizar repositório](COLE_O_LINK_ANDROID_AQUI)
+
+---
+
+### 🌍 Travelgram — Perfil Web de Viagens
+
+Página web responsiva inspirada em um perfil de viagens, desenvolvida com foco em estruturação semântica, organização visual e experiência do usuário.
+
+O projeto apresenta a aplicação de conceitos de desenvolvimento Front-end e estilização de interfaces.
+
+**Tecnologias:** HTML5 • CSS3 • CSS Flexbox
+
+🔗 [Visualizar repositório](COLE_O_LINK_TRAVELGRAM_AQUI)
 
 ---
 
@@ -92,5 +110,13 @@ Aplicação web responsiva inspirada em um perfil de viagens, desenvolvida com f
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviavaleria/flaviavaleria/output/github-contribution-grid-snake.svg">
   <img alt="Animação das contribuições de Flávia" src="https://raw.githubusercontent.com/flaviavaleria/flaviavaleria/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+
+### ✨ Sempre aprendendo, desenvolvendo e evoluindo!
+
+*Transformando conhecimento em prática, um projeto de cada vez.*
+
+</div>
 
 
